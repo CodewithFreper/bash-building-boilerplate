@@ -198,3 +198,36 @@ cd images
 cd ../../..
 cd images
 ls --color=auto
+mv header.png website
+mv header.png .
+cd ..
+mv header.png images
+ls --color=auto
+find -name header.png
+mv header.png ..
+cd images
+mv header.pn ..
+mv header.png ..
+ls --color=auto
+cd website
+cd ..
+ls --color=auto
+cd ..ç
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+cd ..
+ls --color=auto
+find header.png
+cd workspace/website
+cd workspace
+cd website
+cd project
+cd website
+findd
+find
+cd images
+mv website header.png
+find
+mv header.png ..
