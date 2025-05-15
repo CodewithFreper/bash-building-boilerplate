@@ -180,3 +180,19 @@ cd assets
 mkdir images
 cd images
 touch background.jpg
+cd ..
+cd ../..
+cd images
+cd ../../..
+pwd
+cd assets
+cd website/clients/assets/images
+cd website
+find
+ls --color=auto
+cd project
+cd website
+cd client
+cd assets
+cd images
+cd ../../..
