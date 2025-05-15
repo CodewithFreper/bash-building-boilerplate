@@ -238,3 +238,4 @@ find -name images
 mv header.pg ./client/assets/images
 mv header.png ./client/assets/images
 find -name header.png
+find -name footer.jpeg
