@@ -232,3 +232,4 @@ mv website header.png
 find
 mv header.png ..
 ls --color=auto
+cd ..
